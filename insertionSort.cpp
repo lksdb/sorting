@@ -5,6 +5,10 @@
 
 using namespace std;
 
+void insertionSort(vector <int> &data){
+
+}
+
 
 
 int main(){
